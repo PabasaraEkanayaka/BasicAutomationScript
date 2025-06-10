@@ -7,9 +7,13 @@
             <class name="TestNGAnnotationOrder">
                 <methods>
                     <include name="testMethod1"/>
+                    <include name="testMethod2"/>
                     <include name="testMethod3"/>
                 </methods>
             </class>
+<!--            <class name="TestNGMain">-->
+
+<!--            </class>-->
         </classes>
     </test>
 </suite>
